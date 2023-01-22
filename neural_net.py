@@ -26,6 +26,7 @@ class Network:
         self.output_size = 10
         self.num_hidden = num_hidden
         self.best = 0.
+
         self.same = 0
 
      
